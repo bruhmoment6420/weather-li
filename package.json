@@ -1,0 +1,22 @@
+{
+  "name": "Weather-LI",
+  "version": "1.0.0",
+  "description": "A weather app written in pure JavaScript.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/index.js",
+    "mount": "npm install"
+  },
+  "keywords": [],
+  "author": "Tahlil",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "node-fetch": "^2.6.1",
+    "prompts": "^2.4.0"
+  },
+  "bin": {
+    "weather": "./bin/index.js"
+  }
+}
