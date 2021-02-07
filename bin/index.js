@@ -60,14 +60,23 @@ function weatherEngine(location) {
 
             log('');
             log(`🗺 Country: ${weather.sys.country}`);
+            log('');
             log(`🧭 Location: ${weather.name}`);
+            log('');
             log(`💨 Wind Speed: ${weather.wind.speed} m/s`);
+            log('');
             log(`🚩 Wind Direction: ${weather.wind.deg} degrees`);
+            log('');
             log(`🌡 Current Temparature: ${weather.main.temp}°c`);
+            log('');
             log(`⬆ Max Temparature: ${weather.main.temp_max}°c`);
+            log('');
             log(`⬇ Lowest Temparature: ${weather.main.temp_min}°c`);
+            log('');
             log(`🌄 Feels Like: ${weather.main.feels_like}°c`);
+            log('');
             log(`💧 Humidity: ${weather.main.humidity} %`);
+            log('');
             log(`☀ Condition: ${weather.weather[0].main}`);
             log('');
         
