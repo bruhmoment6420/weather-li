@@ -7,6 +7,7 @@ This uses Prompts, OpenWeatherMap and Figlet to show everything.
 ## Readme Contents
 * Demo
 * Usage
+* Uninstalling
 
 ## Demo
 ![gif](https://github.com/bruhmoment6420/weather-li/blob/main/assets/demo.gif)
@@ -48,7 +49,7 @@ npm install -g
 Run the app by typing ```weather``` anywhere in the console. It is now installed globally and can be used at a moments notice.
 
 ### Downloaded Way (broken):
-Download one of the binaries given in the releases section according to your os.
+Download one of the binaries given in the releases section according to your os. This is not recommended. Use this method a your own risk
 
 ### Manual Way:
 The following steps shows how to use Weather-LI manually.
@@ -72,4 +73,10 @@ npm install
 Run the app:
 ```
 npm run start
+```
+
+## Uninstalling
+Supposing that you installed the app using either 'Installation Way' or 'Non NPM Installation Way' the uninstall process is the same:
+```
+npm uninstall -g weather-li
 ```
