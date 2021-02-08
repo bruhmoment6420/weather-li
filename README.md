@@ -14,8 +14,15 @@ This uses Prompts, OpenWeatherMap and Figlet to show everything.
 ## Usage  
 The following describes the ways to use the app. (ALL REQUIRE NODE TO BE INSTALLED)
 
-### Installation Way:
-This is the recommended way to use this app.
+### Installation Way
+This is the recommended way to install this app. To do so just open a console with ```sudo``` or administrator privilages and type:
+```
+npm install -g weather-li
+```
+As mentioned above you will need [NodeJS](https://nodejs.org/en/) installed for this
+
+### Non NPM Installation Way:
+This is the way to install this app using the source code.
 
 #### Step 1
 Clone the project repo:
