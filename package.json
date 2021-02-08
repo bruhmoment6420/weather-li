@@ -1,6 +1,6 @@
 {
   "name": "weather-li",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A weather app written in pure JavaScript.",
   "main": "./bin/index.js",
   "scripts": {
@@ -9,7 +9,6 @@
     "mount": "npm install"
   },
   "keywords": ["cli", "weather", "weather-app"],
-  "homepage": "https://github.com/bruhmoment6420/weather-li",
   "repository": {
     "type": "git",
     "url": "https://github.com/bruhmoment6420/weather-li.git"
