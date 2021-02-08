@@ -19,7 +19,7 @@ This is the recommended way to install this app. To do so just open a console wi
 ```
 npm install -g weather-li
 ```
-As mentioned above you will need [NodeJS](https://nodejs.org/en/) installed for this
+As mentioned above you will need [NodeJS](https://nodejs.org/en/) installed for this.
 
 ### Non NPM Installation Way:
 This is the way to install this app using the source code.
