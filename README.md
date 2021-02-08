@@ -4,8 +4,6 @@
 This is an app which shows the weather inside your console. I wrote it completely with JavaScript with the help of NodeJS.
 This uses Prompts, OpenWeatherMap and Figlet to show everything.
 
-Check out the [NPM page of the app.](https://www.npmjs.com/package/weather-li)
-
 ## Readme Contents
 * Demo
 * Usage
