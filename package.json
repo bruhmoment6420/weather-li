@@ -1,6 +1,6 @@
 {
   "name": "weather-li",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A weather app written in pure JavaScript.",
   "main": "./bin/index.js",
   "scripts": {
@@ -8,7 +8,12 @@
     "start": "node ./bin/index.js",
     "mount": "npm install"
   },
-  "keywords": [],
+  "keywords": ["cli", "weather", "weather-app"],
+  "homepage": "https://github.com/bruhmoment6420/weather-li",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruhmoment6420/weather-li.git"
+  },
   "author": "Tahlil",
   "license": "MIT",
   "dependencies": {
