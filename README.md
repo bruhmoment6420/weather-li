@@ -8,7 +8,7 @@ This uses Prompts, OpenWeatherMap and Figlet to show everything.
 * Usage
 
 ## Demo
-![gif](https://github.com/bruhmoment6420/sys-fo/blob/main/images/demo.gif)
+![gif](https://github.com/bruhmoment6420/weather-li/blob/main/assets/demo.gif)
 
 ## Usage  
 The following describes the ways to use the app. (ALL REQUIRE NODE TO BE INSTALLED)
