@@ -1,5 +1,5 @@
 {
-  "name": "Weather-LI",
+  "name": "weather-li",
   "version": "1.0.0",
   "description": "A weather app written in pure JavaScript.",
   "main": "./bin/index.js",
