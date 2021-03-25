@@ -1,6 +1,8 @@
-<img src="https://github.com/bruhmoment6420/weather-li/blob/main/assets/logo.png" width="300" height="300"/>
+<h1 align="center">
+  <img src="https://github.com/bruhmoment6420/weather-li/blob/main/assets/logo.png" width="250" height="250"/><br/>
+  Weather-LI
+</h1>
 
-# Weather-LI
 This is an app which shows the weather inside your console. I wrote it completely with JavaScript with the help of NodeJS.
 This uses Prompts, OpenWeatherMap and Figlet to show everything.
 
